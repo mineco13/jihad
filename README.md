@@ -52,3 +52,17 @@ Except Mac, replace `<m-X>` by `<c-X>`
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Logseq](https://logseq.com/)              | [Link](https://docs.logseq.com/#/page/why%20linking%20matters), [Indentation](https://docs.logseq.com/#/page/what%20is%20indentation%20and%20why%20does%20it%20matter%3F) |
 | [Notion](https://www.notion.so/ja/product) | [Database](https://www.notion.so/ja-jp/help/intro-to-databases)                                                                                                           |
+
+## multipass
+
+```sh
+export VM_NAME=knative && multipass delete --purge $VM_NAME && multipass launch --name $VM_NAME --cloud-init multipass.yaml --cpus 6 --memory 12G --disk 40G docker && multipass exec $VM_NAME -- ls .ssh
+```
+
+```sh
+ssh  -i ~/.ssh/id_rsa ubuntu@$(multipass exec knative -- ip -br -4 a|grep enp0s1|awk '{print $3}'|sed 's/\/[0-9]*$//')
+```
+
+```sh
+multipass restart knative
+```
