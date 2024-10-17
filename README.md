@@ -15,9 +15,13 @@
 
 ### CLI
 
-| Name                              | Description                                           |
-| --------------------------------- | ----------------------------------------------------- |
-| [Taskfile](https://taskfile.dev/) | YAML based task runner / build tool alt to `makefile` |
+**See [Taskfile.yaml](Taskfile.yaml)**
+
+- OR use [VSCode Extension](https://taskfile.dev/integrations/)
+  - OR install [Taskfile](https://taskfile.dev/), YAML based task runner / build tool alt to `makefile`, and run
+    ```bash
+    task -l
+    ```
 
 ### IDE
 

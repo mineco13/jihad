@@ -3,3 +3,9 @@ version: '3'
 tasks:
   hello: {cmds: [echo 'Hello from Task!']}
   world: {cmds: [echo 'World from Task!'], silent: true}
+  jq:
+    cmds: [cat .vscode/settings.json | docker run --rm -i ghcr.io/jqlang/jq '."files.autoSave"']
+    desc: 'JSON processor - https://jqlang.github.io/jq/'
+  yq:
+    cmds: [cat Taskfile.yaml | docker run --rm -i mikefarah/yq '.tasks.yq']
+    desc: 'YAML processor - https://mikefarah.gitbook.io/yq'
