@@ -1,0 +1,5 @@
+version: '3'
+
+tasks:
+  hello: {cmds: [echo 'Hello from Task!']}
+  world: {cmds: [echo 'World from Task!'], silent: true}
