@@ -27,19 +27,27 @@ Tips to improve productivity and DevEx(Developer Experience)
 
 ### IDE
 
-Using [Jetbrains products](https://www.jetbrains.com/ja-jp/ides/) for productiity and DX(Developer Experience)
+[JetBrains IDEs](https://www.jetbrains.com/ja-jp/ides/) are mentors that help me write quality code productively.(I switched from _Eclipse_.)\
+[VSCode](https://code.visualstudio.com/) is a useful tool when combining multiple less mature technologies.
 
-| Keybind     |                                                                           |
-| ----------- | ------------------------------------------------------------------------- |
-| All         | [VSCode Keymap](https://plugins.jetbrains.com/plugin/12062-vscode-keymap) |
-| Command + D | Search with Google                                                        |
+| Settings and Tips                                                                                        | JetBrains IDEs                                                                                                                                                                | VSCode                                                                                                        |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Sync keymap by                                                                                           | [Install VSCode Keymap](https://plugins.jetbrains.com/plugin/12062-vscode-keymap) and [Apply it](https://pleiades.io/help/idea/configuring-keyboard-and-mouse-shortcuts.html) | -                                                                                                             |
+| Assign `Ctrl + d` to                                                                                     | Search with Google                                                                                                                                                            | [extension.googleSearch](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search)     |
+| [![Image link was broken!!!](container.drawio.svg)](container.drawio.svg)<br> Create and Edit diagram by | [`.drawio.svg` or `.drawio.png`](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)                                                                         | [`.drawio.svg` or `.drawio.png`](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)    |
+| Visualize Git by                                                                                         | Built-in windows [Commits](https://pleiades.io/help/idea/commit-and-push-changes.html#commit) and [Branches](https://pleiades.io/help/idea/manage-branches.html)              | [Extention](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)                           |
+| Use `Ctrl + .` for                                                                                       | [Quick-fix](https://pleiades.io/help/idea/resolving-problems.html)                                                                                                            | [Quick-fix](https://code.visualstudio.com/docs/editor/refactoring#_code-actions-quick-fixes-and-refactorings) |
+| Clean up code on commit by                                                                               | [Built-in feature](https://pleiades.io/help/idea/running-inspections.html#run-before-commit)                                                                                  | ?                                                                                                             |
 
-| Name                                                               | Lang                                                                                               |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)             | [Java](https://ja.quarkus.io/), [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) |
-| [RustRover](https://www.jetbrains.com/ja-jp/rust/)                 | [Rust](https://tourofrust.com/00_ja.html)                                                          |
-| [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/)                | [Python](https://hub.docker.com/_/python)                                                          |
-| [JetBrains Fleet](https://www.jetbrains.com/ja-jp/fleet/#polyglot) | Multiple                                                                                           |
+I love live coding assistance, such as
+[spell checking](https://pleiades.io/help/idea/spellchecking.html),
+[type matching completion](https://pleiades.io/help/idea/auto-completing-code.html#smart_type_matching_completion),
+and [code analysis](https://pleiades.io/help/idea/file-and-project-analysis.html#analysis-current-file)
+compromising performance.\
+Free JetBrains IDEs are [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/) for [Java](https://ja.quarkus.io/) and [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html),
+[RustRover](https://www.jetbrains.com/ja-jp/rust/) for [Rust](https://tourofrust.com/00_ja.html),
+[PyCharm](https://www.jetbrains.com/ja-jp/pycharm/) for [Python](https://hub.docker.com/_/python),
+and [JetBrains Fleet](https://www.jetbrains.com/ja-jp/fleet/#polyglot) for Multiple lang.(The Community editions and more are available.)
 
 ### Browser extension
 
