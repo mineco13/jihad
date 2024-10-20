@@ -47,16 +47,18 @@ Using [Jetbrains products](https://www.jetbrains.com/ja-jp/ides/) for productiit
 
 Edit **Custom key mappings** on chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
 
-```
+```conf
 # Insert your preferred key mappings here.
-map <m-d> openCopiedUrlInNewTab
-map <m-e> nextTab
 map s scrollPageUp
 map d scrollPageDown
-unmap f
-```
+unmap f # Disable Vimium's main feature
+map <m-e> nextTab
+map <m-d> openCopiedUrlInNewTab # Search for text by 1.select the text, 2.`Command + c`, 3.`Command + d`.
 
-Except Mac, replace `<m-X>` by `<c-X>`
+# NOTICE for Linux or Windows users,
+# REPLACE <m-*>, means `Command + *`, with <c-*>, means `Ctrl + *`.
+
+```
 
 ### PKM = Personal Knowledge Management tool
 
