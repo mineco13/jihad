@@ -20,7 +20,7 @@ Tips to improve productivity and DevEx(Developer Experience)
 **See [Taskfile.yaml](Taskfile.yaml)**
 
 - OR use [VSCode Extension](https://taskfile.dev/integrations/)
-  - OR install [Taskfile](https://taskfile.dev/), YAML based task runner / build tool alt to `makefile`, and run
+  - OR install [Taskfile](https://taskfile.dev/), YAML based task runner / build tool alt to _makefile_, and run
     ```bash
     task -l
     ```
