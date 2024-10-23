@@ -15,6 +15,16 @@ Tips to improve productivity and DevEx(Developer Experience)
 
 ## Tool
 
+### Diagram
+
+#### draw.io
+
+Using `.drawio.svg` or `.drawio.png`(e.g.,[assets/ide.drawio.svg](assets/ide.drawio.svg)), you can easily both display and edit the image as shown below.
+
+[![Image link was broken!!!](assets/ide.drawio.svg)](https://app.diagrams.net/?url=https://raw.githubusercontent.com/mineco13/method/refs/heads/main/assets/ide.drawio.svg)
+
+Click the image to edit online (not saved on GitHub), or use [IDEs](#ide) and more to edit locally :D
+
 ### CLI
 
 **See [Taskfile.yaml](Taskfile.yaml)**
@@ -30,14 +40,14 @@ Tips to improve productivity and DevEx(Developer Experience)
 [JetBrains IDEs](https://www.jetbrains.com/ja-jp/ides/) are mentors that help me write quality code productively.(I switched from _Eclipse_.)\
 [VSCode](https://code.visualstudio.com/) is a useful tool when combining multiple less mature technologies.
 
-| Settings and Tips                                                                                                                                                                                                                   | JetBrains IDEs                                                                                                                                                                | VSCode                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Sync keymap by                                                                                                                                                                                                                      | [Install VSCode Keymap](https://plugins.jetbrains.com/plugin/12062-vscode-keymap) and [Apply it](https://pleiades.io/help/idea/configuring-keyboard-and-mouse-shortcuts.html) | -                                                                                                             |
-| Assign `Ctrl + d` to                                                                                                                                                                                                                | Search with Google                                                                                                                                                            | [extension.googleSearch](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search)     |
-| [![Image link was broken!!!](assets/ide.drawio.svg)](assets/ide.drawio.svg)<br> Create and [Edit diagram](https://app.diagrams.net/?url=https://raw.githubusercontent.com/mineco13/method/refs/heads/main/assets/ide.drawio.svg) by | [`.drawio.svg` or `.drawio.png`](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)                                                                         | [`.drawio.svg` or `.drawio.png`](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)    |
-| Visualize Git by                                                                                                                                                                                                                    | Built-in windows [Commits](https://pleiades.io/help/idea/commit-and-push-changes.html#commit) and [Branches](https://pleiades.io/help/idea/manage-branches.html)              | [Extention](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)                           |
-| Use `Ctrl + .` for                                                                                                                                                                                                                  | [Quick-fix](https://pleiades.io/help/idea/resolving-problems.html)                                                                                                            | [Quick-fix](https://code.visualstudio.com/docs/editor/refactoring#_code-actions-quick-fixes-and-refactorings) |
-| Clean up code on commit by                                                                                                                                                                                                          | [Built-in feature](https://pleiades.io/help/idea/running-inspections.html#run-before-commit)                                                                                  | ?                                                                                                             |
+| Settings and Tips                       | JetBrains IDEs                                                                                                                                                                | VSCode                                                                                                        |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Sync keymap by                          | [Install VSCode Keymap](https://plugins.jetbrains.com/plugin/12062-vscode-keymap) and [Apply it](https://pleiades.io/help/idea/configuring-keyboard-and-mouse-shortcuts.html) | -                                                                                                             |
+| Assign `Ctrl + d` to                    | [`Search with Google`](https://pleiades.io/help/idea/configuring-keyboard-and-mouse-shortcuts.html#add-keyboard-shortcut)                                                     | [`extension.googleSearch`](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search)   |
+| Edit [`.drawio.[svg\|png]`](#drawio) by | [Extension](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)                                                                                              | [Extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)                         |
+| Visualize Git by                        | Built-in windows [Commits](https://pleiades.io/help/idea/commit-and-push-changes.html#commit) and [Branches](https://pleiades.io/help/idea/manage-branches.html)              | [Extension](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)                           |
+| Use `Ctrl + .` for                      | [Quick-fix](https://pleiades.io/help/idea/resolving-problems.html)                                                                                                            | [Quick-fix](https://code.visualstudio.com/docs/editor/refactoring#_code-actions-quick-fixes-and-refactorings) |
+| Clean up code on commit by              | [Built-in feature](https://pleiades.io/help/idea/running-inspections.html#run-before-commit)                                                                                  | ?                                                                                                             |
 
 I love live coding assistance, such as
 [spell checking](https://pleiades.io/help/idea/spellchecking.html),
