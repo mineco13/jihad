@@ -40,7 +40,17 @@ Click the image to edit online (not saved on GitHub), or use [IDEs](#ide) and mo
 [JetBrains IDEs](https://www.jetbrains.com/ja-jp/ides/) are mentors that help me write quality code productively.(I switched from _Eclipse_.)\
 [VSCode](https://code.visualstudio.com/) is a useful tool when combining multiple less mature technologies.
 
-| Settings and Tips                       | JetBrains IDEs                                                                                                                                                                | VSCode                                                                                                        |
+<details><summary>Free JetBrains IDEs are available in Community editions and more.</summary>
+
+| [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)                                                | [RustRover](https://www.jetbrains.com/ja-jp/rust/) | [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/) | [JetBrains Fleet](https://www.jetbrains.com/ja-jp/fleet/)        |
+| ----------------------------------------------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------- |
+| [Java](https://ja.quarkus.io/) and [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) | [Rust](https://tourofrust.com/00_ja.html)          | [Python](https://hub.docker.com/_/python)           | [Multiple lang](https://www.jetbrains.com/ja-jp/fleet/#polyglot) |
+
+</details>
+
+<details><summary>Settings and Tips</summary>
+
+|                                         | JetBrains IDEs                                                                                                                                                                | VSCode                                                                                                        |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | Sync keymap by                          | [Install VSCode Keymap](https://plugins.jetbrains.com/plugin/12062-vscode-keymap) and [Apply it](https://pleiades.io/help/idea/configuring-keyboard-and-mouse-shortcuts.html) | -                                                                                                             |
 | Assign `Ctrl + d` to                    | [`Search with Google`](https://pleiades.io/help/idea/configuring-keyboard-and-mouse-shortcuts.html#add-keyboard-shortcut)                                                     | [`extension.googleSearch`](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search)   |
@@ -53,17 +63,16 @@ I love live coding assistance, such as
 [spell checking](https://pleiades.io/help/idea/spellchecking.html),
 [type matching completion](https://pleiades.io/help/idea/auto-completing-code.html#smart_type_matching_completion),
 and [code analysis](https://pleiades.io/help/idea/file-and-project-analysis.html#analysis-current-file)
-compromising performance.\
-Free JetBrains IDEs are [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/) for [Java](https://ja.quarkus.io/) and [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html),
-[RustRover](https://www.jetbrains.com/ja-jp/rust/) for [Rust](https://tourofrust.com/00_ja.html),
-[PyCharm](https://www.jetbrains.com/ja-jp/pycharm/) for [Python](https://hub.docker.com/_/python),
-and [JetBrains Fleet](https://www.jetbrains.com/ja-jp/fleet/#polyglot) for Multiple lang.(The Community editions and more are available.)
+compromising performance.
+
+</details>
 
 ### Browser extension
 
 #### [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=ja-jp)
 
-Edit **Custom key mappings** on chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
+<details><summary>Edit **Custom key mappings** on chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
+</summary>
 
 ```conf
 # Insert your preferred key mappings here.
@@ -77,6 +86,8 @@ map <m-d> openCopiedUrlInNewTab # Web search for text by 1.select the text, 2.`C
 # REPLACE <m-*>, means `Command + *`, with <c-*>, means `Ctrl + *`.
 
 ```
+
+</details>
 
 ### PKM = Personal Knowledge Management tool
 
