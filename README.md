@@ -61,7 +61,7 @@ map s scrollPageUp
 map d scrollPageDown
 unmap f # Disable Vimium's main feature
 map <m-e> nextTab
-map <m-d> openCopiedUrlInNewTab # Search for text by 1.select the text, 2.`Command + c`, 3.`Command + d`.
+map <m-d> openCopiedUrlInNewTab # Web search for text by 1.select the text, 2.`Command + c`, 3.`Command + d`.
 
 # NOTICE for Linux or Windows users,
 # REPLACE <m-*>, means `Command + *`, with <c-*>, means `Ctrl + *`.
