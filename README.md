@@ -29,11 +29,11 @@ Install Docker for [Linux](https://docs.docker.com/engine/install/) or [Mac](htt
 
 **See [Taskfile.yaml](Taskfile.yaml)**
 
-- OR use [VSCode Extension](https://taskfile.dev/integrations/)
-  - OR install [Taskfile](https://taskfile.dev/), YAML based task runner / build tool alt to _makefile_, and run
-    ```bash
+- OR install [Taskfile](https://taskfile.dev/), YAML based task runner / build tool alt to _makefile_, and
+  - ```bash
     task -l
     ```
+  - OR use [VSCode Extension](https://taskfile.dev/integrations/)
 
 ### JetBrains IDEs & VSCode - Essentials for Dev
 
