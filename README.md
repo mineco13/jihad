@@ -93,9 +93,43 @@ map <m-d> openCopiedUrlInNewTab
 
 </details>
 
-### Personal Knowledge Management
+### [Logseq](https://logseq.com/) - Connecting the Dots
 
-| Name                                       | Killer feature                                                                                                                                                            |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Logseq](https://logseq.com/)              | [Link](https://docs.logseq.com/#/page/why%20linking%20matters), [Indentation](https://docs.logseq.com/#/page/what%20is%20indentation%20and%20why%20does%20it%20matter%3F) |
-| [Notion](https://www.notion.so/ja/product) | [Database](https://www.notion.so/ja-jp/help/intro-to-databases)                                                                                                           |
+<details><summary>Try it on the demo page. </summary>
+
+Access https://demo.logseq.com/
+
+1. Input your favorite text, press `Enter`, and it will create a **Block**.
+2. Copy & Paste the following text, press `Enter`, and it will create a **Page**.
+
+   ```md
+   [[Logseq]]
+   ```
+
+3. Click on `[[Logseq]]`, then C&P the following text.
+
+   ```md
+   [[Block]] is atomic element of [[Logseq]]
+
+   [[Page]] is array of [[Block]]
+
+   [[Link]] shows how the current [[Page]] is referred to by other [[Page]]s.
+
+         - [[Link]] also works similarly for [[Block]].
+   ```
+
+4. Click on `[[Link]]`, then C&P the following text.
+
+   ```md
+   `[[page]]`で page という題名の [[Page]] を検索し、選択することでその [[Page]] への `Link` を作成できる
+
+         - 該当する [[Page]] が存在しない場合は自動で作成される
+
+   `((block))`で block という文字列を含んだ [[Block]] を検索し、選択することでその[[Block]]への`Link`を作成できる
+   ```
+
+5. Click on [`Graph view`](https://demo.logseq.com/#/graph) and play
+
+</details>
+
+### [Coda](https://coda.io/gallery/engineering) / [Notion](https://www.notion.so/ja/help/intro-to-databases) - Unified Database & Docs
