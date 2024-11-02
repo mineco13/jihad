@@ -15,9 +15,7 @@ Tips to improve productivity and **DevEx**(Developer Experience)
 
 ## Tool
 
-### Diagram
-
-#### draw.io
+### [draw.io](https://www.drawio.com/) - Platform for Diagrams to Display & Edit
 
 Using `.[dio|drawio].[svg|png]` (e.g.,[assets/ide.drawio.svg](assets/ide.drawio.svg)), you can easily both **display** and **edit** the image as shown below.
 
@@ -25,7 +23,7 @@ Using `.[dio|drawio].[svg|png]` (e.g.,[assets/ide.drawio.svg](assets/ide.drawio.
 
 **Click** the image to edit online (not saved on GitHub), or use [IDEs](#integrated-development-environment) and more to edit locally :D
 
-### Command Line Interface
+### CLI Tools - Essentials for Automation
 
 Install Docker for [Linux](https://docs.docker.com/engine/install/) or [Mac](https://orbstack.dev/), [Windows](https://docs.docker.com/desktop/install/windows-install/).
 
@@ -37,7 +35,7 @@ Install Docker for [Linux](https://docs.docker.com/engine/install/) or [Mac](htt
     task -l
     ```
 
-### Integrated Development Environment
+### JetBrains IDEs & VSCode - Essentials for Dev
 
 [JetBrains IDEs](https://www.jetbrains.com/ja-jp/ides/) are mentors that help me write **quality** code **productively**.(I switched from _Eclipse_.)\
 [VSCode](https://code.visualstudio.com/) is a useful tool when combining multiple less mature technologies.
@@ -68,11 +66,9 @@ and [code analysis](https://pleiades.io/help/idea/file-and-project-analysis.html
 
 </details>
 
-### Browser extension
+### [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=ja-jp) - Browser extension for Quick web search
 
-#### [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=ja-jp)
-
-<details><summary>Settings for <b>Quick web search</b></summary>
+<details><summary>Settings</summary>
 
 Using the browser's address bar, access  
 `chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html`  
