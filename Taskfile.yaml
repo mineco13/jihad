@@ -1,11 +1,17 @@
 version: '3'
 
+# ___Structure___
+# tasks:
+#   [CLI tool name]:
+#     cmd: A one-liner you can try without installing the CLI
+#     desc: Description and link to the CLI tool
+
 tasks:
   hello: {cmds: [echo 'Hello from Task!']}
   world: {cmd: echo 'World from Task!', silent: true}
   jq:
     cmd: cat .vscode/settings.json | docker run --rm -i ghcr.io/jqlang/jq '."files.autoSave"'
-    desc: 'JSON processor - https://jqlang.github.io/jq/'
+    desc: JSON processor - https://jqlang.github.io/jq/
   yq:
     cmd: cat Taskfile.yaml | docker run --rm -i mikefarah/yq '.tasks.yq'
-    desc: 'YAML processor - https://mikefarah.gitbook.io/yq'
+    desc: YAML processor - https://mikefarah.gitbook.io/yq
