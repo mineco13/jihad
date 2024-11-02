@@ -71,7 +71,7 @@ compromising performance.
 
 #### [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=ja-jp)
 
-<details><summary>Edit **Custom key mappings** on chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
+<details><summary>Edit <b>Custom key mappings</b> on chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
 </summary>
 
 ```conf
