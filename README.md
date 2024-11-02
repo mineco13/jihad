@@ -1,4 +1,4 @@
-# method
+# jihad
 
 Tips to improve productivity and DevEx(Developer Experience)
 
@@ -21,7 +21,7 @@ Tips to improve productivity and DevEx(Developer Experience)
 
 Using `.drawio.svg` or `.drawio.png`(e.g.,[assets/ide.drawio.svg](assets/ide.drawio.svg)), you can easily both display and edit the image as shown below.
 
-[![Image link was broken!!!](assets/ide.drawio.svg)](https://app.diagrams.net/?url=https://raw.githubusercontent.com/mineco13/method/refs/heads/main/assets/ide.drawio.svg)
+[![Image link was broken!!!](assets/ide.drawio.svg)](https://app.diagrams.net/?url=https://raw.githubusercontent.com/mineco13/jihad/refs/heads/main/assets/ide.drawio.svg)
 
 Click the image to edit online (not saved on GitHub), or use [IDEs](#ide) and more to edit locally :D
 
