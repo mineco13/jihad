@@ -4,14 +4,14 @@ Tips to improve productivity and DevEx(Developer Experience)
 
 ## Best practice
 
-| Link                                                                                                                                                                     | Description                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
-| [Conventional Commits](https://www.conventionalcommits.org/ja/v1.0.0/)                                                                                                   | Commit message specification     |
-| [Semantic Versioning](https://semver.org/lang/ja/)                                                                                                                       | Resolve dependency hell          |
-| [The Twelve-Factor App](https://12factor.net/ja/)                                                                                                                        | Modern SaaS practice             |
-| [3factor app](https://3factor.app/)                                                                                                                                      | Impl of EDA                      |
-| [Agile Software Development](https://www.sei-info.co.jp/framework/column/agile/)                                                                                         | List of agile dev methods        |
-| [Four Keys](https://cloud.google.com/blog/ja/products/gcp/using-the-four-keys-to-measure-your-devops-performance) or [SPACE](https://note.com/dai___you/n/n117357da25b5) | Developer Productivity Framework |
+| Link                                                                                                                                                                     | Description                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Conventional Commits](https://www.conventionalcommits.org/ja/v1.0.0/)                                                                                                   | Commit message specification such as<br>`docs: correct spelling of CHANGELOG`<br>`feat(api)!: send an email to the customer when a product is shipped` |
+| [Semantic Versioning](https://semver.org/lang/ja/)                                                                                                                       | Resolve compatibility issues with `MAJOR.MINOR.PATCH` versioning (e.g., `1.12.358`).                                                                   |
+| [Beyond the Twelve-Factor App](https://zenn.dev/kazurof/articles/18256f0e9c4761)                                                                                         | 15 practice for modern SaaS                                                                                                                            |
+| [3factor app](https://3factor.app/)                                                                                                                                      | Impl of _Event Driven Architecture_ using **GraphQL**                                                                                                  |
+| [Agile Software Development](https://www.sei-info.co.jp/framework/column/agile/)                                                                                         | Agile? Scrum? _Extreme Programming_?                                                                                                                   |
+| [Four Keys](https://cloud.google.com/blog/ja/products/gcp/using-the-four-keys-to-measure-your-devops-performance) or [SPACE](https://note.com/dai___you/n/n117357da25b5) | Developer Productivity Framework                                                                                                                       |
 
 ## Tool
 
