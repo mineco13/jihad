@@ -42,9 +42,9 @@ Click the image to edit online (not saved on GitHub), or use [IDEs](#ide) and mo
 
 <details><summary>Free JetBrains IDEs are available in Community editions and more.</summary>
 
-| [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)                                                                                           | [RustRover](https://www.jetbrains.com/ja-jp/rust/) | [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/) | [JetBrains Fleet](https://www.jetbrains.com/ja-jp/fleet/#polyglot) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------ |
-| [Java](https://www.jetbrains.com/ja-jp/lp/devecosystem-2023/java/#java_ide) & [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) | [Rust](https://tourofrust.com/00_ja.html)          | [Python](https://hub.docker.com/_/python)           | Multiple lang                                                      |
+| [IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)                                                                                           | [RustRover](https://www.jetbrains.com/ja-jp/rust/) | [PyCharm](https://www.jetbrains.com/ja-jp/pycharm/) | [WebStorm](https://www.jetbrains.com/ja-jp/webstorm/) | [Rider](https://www.jetbrains.com/ja-jp/rider/) | [JetBrains Fleet](https://www.jetbrains.com/ja-jp/fleet/#polyglot) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------ |
+| [Java](https://www.jetbrains.com/ja-jp/lp/devecosystem-2023/java/#java_ide) & [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) | [Rust](https://tourofrust.com/00_ja.html)          | [Python](https://hub.docker.com/_/python)           | [TypeScript](https://www.typescriptlang.org/) & JS    | C#, F#, VB.NET                                  | Multiple lang                                                      |
 
 </details>
 
