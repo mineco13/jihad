@@ -25,7 +25,7 @@ Using `.drawio.svg` or `.drawio.png`(e.g.,[assets/ide.drawio.svg](assets/ide.dra
 
 Click the image to edit online (not saved on GitHub), or use [IDEs](#ide) and more to edit locally :D
 
-### CLI
+### Command Line Interface
 
 **See [Taskfile.yaml](Taskfile.yaml)**
 
@@ -35,7 +35,7 @@ Click the image to edit online (not saved on GitHub), or use [IDEs](#ide) and mo
     task -l
     ```
 
-### IDE
+### Integrated Development Environment
 
 [JetBrains IDEs](https://www.jetbrains.com/ja-jp/ides/) are mentors that help me write quality code productively.(I switched from _Eclipse_.)\
 [VSCode](https://code.visualstudio.com/) is a useful tool when combining multiple less mature technologies.
@@ -89,7 +89,7 @@ map <m-d> openCopiedUrlInNewTab # Web search for text by 1.select the text, 2.`C
 
 </details>
 
-### PKM = Personal Knowledge Management tool
+### Personal Knowledge Management
 
 | Name                                       | Killer feature                                                                                                                                                            |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
