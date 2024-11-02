@@ -46,6 +46,12 @@ Click the image to edit online (not saved on GitHub), or use [IDEs](#ide) and mo
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------ |
 | [Java](https://www.jetbrains.com/ja-jp/lp/devecosystem-2023/java/#java_ide) & [Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) | [Python](https://hub.docker.com/_/python)           | [TypeScript](https://www.typescriptlang.org/) & JS    | [Rust](https://tourofrust.com/00_ja.html)          | C#, F#, VB.NET                                  | Multiple lang                                                      |
 
+I love live coding assistance, such as
+[spell checking](https://pleiades.io/help/idea/spellchecking.html),
+[type matching completion](https://pleiades.io/help/idea/auto-completing-code.html#smart_type_matching_completion),
+and [code analysis](https://pleiades.io/help/idea/file-and-project-analysis.html#analysis-current-file)
+compromising performance.
+
 </details>
 
 <details><summary>Settings and Tips</summary>
@@ -58,12 +64,6 @@ Click the image to edit online (not saved on GitHub), or use [IDEs](#ide) and mo
 | Visualize Git by                        | Built-in windows [Commits](https://pleiades.io/help/idea/commit-and-push-changes.html#commit) and [Branches](https://pleiades.io/help/idea/manage-branches.html)              | [Extension](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)                           |
 | Use `Ctrl + .` for                      | [Quick-fix](https://pleiades.io/help/idea/resolving-problems.html)                                                                                                            | [Quick-fix](https://code.visualstudio.com/docs/editor/refactoring#_code-actions-quick-fixes-and-refactorings) |
 | Clean up code on commit by              | [Built-in feature](https://pleiades.io/help/idea/running-inspections.html#run-before-commit)                                                                                  | ?                                                                                                             |
-
-I love live coding assistance, such as
-[spell checking](https://pleiades.io/help/idea/spellchecking.html),
-[type matching completion](https://pleiades.io/help/idea/auto-completing-code.html#smart_type_matching_completion),
-and [code analysis](https://pleiades.io/help/idea/file-and-project-analysis.html#analysis-current-file)
-compromising performance.
 
 </details>
 
