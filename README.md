@@ -27,6 +27,8 @@ Using `.[dio|drawio].[svg|png]` (e.g.,[assets/ide.drawio.svg](assets/ide.drawio.
 
 ### Command Line Interface
 
+Install Docker for [Linux](https://docs.docker.com/engine/install/) or [Mac](https://orbstack.dev/), [Windows](https://docs.docker.com/desktop/install/windows-install/).
+
 **See [Taskfile.yaml](Taskfile.yaml)**
 
 - OR use [VSCode Extension](https://taskfile.dev/integrations/)
