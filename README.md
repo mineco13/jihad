@@ -23,7 +23,7 @@ Using `.[dio|drawio].[svg|png]` (e.g.,[assets/ide.drawio.svg](assets/ide.drawio.
 
 [![Image link was broken!!!](assets/ide.drawio.svg)](https://app.diagrams.net/?url=https://raw.githubusercontent.com/mineco13/jihad/refs/heads/main/assets/ide.drawio.svg)
 
-**Click** the image to edit online (not saved on GitHub), or use [IDEs](#ide) and more to edit locally :D
+**Click** the image to edit online (not saved on GitHub), or use [IDEs](#integrated-development-environment) and more to edit locally :D
 
 ### Command Line Interface
 
