@@ -70,8 +70,11 @@ and [code analysis](https://pleiades.io/help/idea/file-and-project-analysis.html
 
 #### [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=ja-jp)
 
-<details><summary>Edit <b>Custom key mappings</b> on chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
-</summary>
+<details><summary>Settings for <b>Quick web search</b></summary>
+
+Using the browser's address bar, access  
+`chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html`  
+AND edit **Custom key mappings** as shown.
 
 ```conf
 # Insert your preferred key mappings here.
@@ -79,11 +82,15 @@ map s scrollPageUp
 map d scrollPageDown
 unmap f # Disable Vimium's main feature
 map <m-e> nextTab
-map <m-d> openCopiedUrlInNewTab # Web search for text by 1.select the text, 2.`Command + c`, 3.`Command + d`.
+
+map <m-d> openCopiedUrlInNewTab
+# Web search for the text on the page
+# 1. Select the text by double-clicking
+# 2. `Command + c`
+# 3. `Command + d`
 
 # NOTICE for Linux or Windows users,
-# REPLACE <m-*>, means `Command + *`, with <c-*>, means `Ctrl + *`.
-
+# REPLACE <m-*>, =`Command + *`, with <c-*>, =`Ctrl + *`.
 ```
 
 </details>
