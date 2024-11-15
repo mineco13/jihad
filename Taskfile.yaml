@@ -15,3 +15,5 @@ tasks:
   yq:
     cmd: cat Taskfile.yaml | docker run --rm -i mikefarah/yq '.tasks.yq'
     desc: YAML processor - https://mikefarah.gitbook.io/yq
+  check_md_link:
+    cmd: docker run -v ${PWD}:/tmp:ro --rm -i ghcr.io/tcort/markdown-link-check:stable /tmp
