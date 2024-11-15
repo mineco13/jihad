@@ -13,6 +13,7 @@ Tips to improve productivity and **DevEx**(Developer Experience)
 | [3factor app](https://3factor.app/)                                                                                                                                      | Impl of _Event Driven Architecture_ using **GraphQL**                                                                                                                   |
 | [Agile Software Development](https://www.sei-info.co.jp/framework/column/agile/)                                                                                         | Agile? Scrum? _Extreme Programming_?                                                                                                                                    |
 | [Four Keys](https://cloud.google.com/blog/ja/products/gcp/using-the-four-keys-to-measure-your-devops-performance) or [SPACE](https://note.com/dai___you/n/n117357da25b5) | Developer Productivity Framework                                                                                                                                        |
+| [PolyForm](https://polyformproject.org/licenses/)                                                                                                                        | Standardized lincense patterns, e.g., [_PolyForm Small Business_](./LICENSE)                                                                                            |
 
 ## Tool
 
