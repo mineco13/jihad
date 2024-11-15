@@ -24,7 +24,7 @@ you can easily both **display** and **edit** the image as shown below.
 
 [![Image link was broken!!!](./assets/ide.drawio.svg)][drawio]
 
-**Click** the image to edit online (not saved on GitHub), or use [IDEs](#integrated-development-environment) and more to edit locally :D
+**Click** the image to edit online (not saved on GitHub), or use [IDEs](#jetbrains-ides--vscode---essentials-for-dev) and more to edit locally :D
 
 ### [Vimium] - Browser extension for Quick web search
 
@@ -112,14 +112,14 @@ Install Docker for [Linux] or [Mac], [Windows].
 <details>
 <summary>Settings and Tips</summary>
 
-|                                                | JetBrains IDEs                            | VSCode                     |
-| ---------------------------------------------- | ----------------------------------------- | -------------------------- |
-| Sync keymap by                                 | [Install VSCode Keymap] and [Apply it]    | -                          |
-| Assign `Ctrl + d` to                           | [`Search with Google`]                    | [`extension.googleSearch`] |
-| Edit [`.[dio\|drawio].[svg\|png]`](#drawio) by | [Extension][jb-dio]                       | [Extension][vs-dio]        |
-| Visualize Git by                               | Built-in windows [Commits] and [Branches] | [Extension][vs-git])       |
-| Use `Ctrl + .` for                             | [Quick-fix][jb-qf]                        | [Quick-fix][vs-qf]         |
-| Clean up code on commit by                     | [Built-in feature]                        | ?                          |
+|                                     | JetBrains IDEs                            | VSCode                     |
+| ----------------------------------- | ----------------------------------------- | -------------------------- |
+| Sync keymap by                      | [Install VSCode Keymap] and [Apply it]    | -                          |
+| Assign `Ctrl + d` to                | [`Search with Google`]                    | [`extension.googleSearch`] |
+| Edit `.[dio\|drawio].[svg\|png]` by | [Extension][jb-dio]                       | [Extension][vs-dio]        |
+| Visualize Git by                    | Built-in windows [Commits] and [Branches] | [Extension][vs-git])       |
+| Use `Ctrl + .` for                  | [Quick-fix][jb-qf]                        | [Quick-fix][vs-qf]         |
+| Clean up code on commit by          | [Built-in feature]                        | ?                          |
 
 </details>
 
