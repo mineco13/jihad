@@ -117,7 +117,7 @@ Install Docker for [Linux] or [Mac], [Windows].
 | Sync keymap by                      | [Install VSCode Keymap] and [Apply it]    | -                          |
 | Assign `Ctrl + d` to                | [`Search with Google`]                    | [`extension.googleSearch`] |
 | Edit `.[dio\|drawio].[svg\|png]` by | [Extension][jb-dio]                       | [Extension][vs-dio]        |
-| Visualize Git by                    | Built-in windows [Commits] and [Branches] | [Extension][vs-git])       |
+| Visualize Git by                    | Built-in windows [Commits] and [Branches] | [Extension][vs-git]        |
 | Use `Ctrl + .` for                  | [Quick-fix][jb-qf]                        | [Quick-fix][vs-qf]         |
 | Clean up code on commit by          | [Built-in feature]                        | ?                          |
 
