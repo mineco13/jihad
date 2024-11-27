@@ -104,15 +104,15 @@ Install Docker for [Linux] or [Mac], [Windows].
     ```
   - OR use [VSCode Extension](https://taskfile.dev/integrations/)
 
-### JetBrains IDEs & VSCode - Essentials for Dev
+### JetBrains IDEs & VSCodium / VSCode - Essentials for Dev
 
-[JetBrains IDEs](https://www.jetbrains.com/ja-jp/ides/) are mentors that help me write **quality** code **productively**.(I switched from _Eclipse_.)  
-[VSCode](https://code.visualstudio.com/) is a useful tool when combining multiple less mature technologies.
+[_JetBrains_ IDEs](https://www.jetbrains.com/ja-jp/ides/) are mentors that help me write **quality** code **productively**.(I switched from _Eclipse_.)  
+[_VSCodium_](https://vscodium.com/)(OSS _VSCode_) is a useful tool when combining multiple less mature technologies.
 
 <details>
 <summary>Settings and Tips</summary>
 
-|                                     | JetBrains IDEs                            | VSCode                     |
+|                                     | JetBrains IDEs                            | VSCodium / VSCode          |
 | ----------------------------------- | ----------------------------------------- | -------------------------- |
 | Sync keymap by                      | [Install VSCode Keymap] and [Apply it]    | -                          |
 | Assign `Ctrl + d` to                | [`Search with Google`]                    | [`extension.googleSearch`] |
